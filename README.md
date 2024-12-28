@@ -110,7 +110,7 @@ vault kv get kv/aws/terraform
 
 ### 5.1 Jenkins Pipeline Structure
 ```groovy
-// Complete Pipeline code provided in previous response
+// Complete Pipeline code is provided in Jenkinsfile
 ```
 
 ### 5.2 Required Files Structure
